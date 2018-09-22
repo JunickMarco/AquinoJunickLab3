@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Styles and Material Design</string>
+    <string name="image_desc">Siargao Inn Beach Resort</string>
+    <string name="location">Location: General Luna area of Siargao Islands, Philippines</string>
+    <string name="distance">Distance from UST: 775 km</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
